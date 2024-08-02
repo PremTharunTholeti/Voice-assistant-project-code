@@ -12,6 +12,7 @@ import pyautogui
 import time
 import operator
 import requests
+import pyaudio
 
 
 engine = pyttsx3.init('sapi5')
